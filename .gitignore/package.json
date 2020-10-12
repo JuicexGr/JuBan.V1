@@ -1,0 +1,17 @@
+{
+  "name": "jubot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juice",
+  "license": "ISC"
+}
